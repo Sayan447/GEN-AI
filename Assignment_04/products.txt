@@ -1,0 +1,3 @@
+Laptop | 99.99
+Mouse | 100.25
+Keyboard | 800
